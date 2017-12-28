@@ -1,0 +1,23 @@
+FUNCTIONAL REQUIREMETNS
+
+the system activated 
+the system  create a new administrator
+the system view admin`s details
+the administrator create user
+the administrator view user`s details
+the user creates a new portfolio
+the administrator delete user
+the user opens an existing portfolio
+the administratorthe Update user profile
+the user drops a portfolio
+the user stores a portfolio
+the user adds a stock exchange symbol to a portfolio
+the user has delete a stock exchange symbol in a portfolio
+the user activated the stock exchange symbol for tracking
+the user renews the portfolio prices
+the user calculates the profits or losses from a portfolio
+the user loads the information for a stock exchange
+the user sees the price chart for a stock market
+the user import prices for a share stock from an file
+the user exports prices for a share stock in an file
+the user terminates the system
